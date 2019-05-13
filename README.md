@@ -1,6 +1,6 @@
 # Projects for prework IH Data Analytics
 
-Within this project there are several folders that have problems to solve in Python that will help you to familiarize yourself with the language and its most common functions. Each folder contains a text file that describes the problem and another file to open with jupyter notebook that will guide you step by step so that you reach the solution.
+Within this project there are several folders that have coding problems to solve in Python that will help you to familiarize yourself with the language and its most common functions. Each folder contains a file to open with **jupyter notebook** that will guide you step by step so that you reach the solution.
 
 ## Suggested order according to the difficulty
 
@@ -8,8 +8,9 @@ Within this project there are several folders that have problems to solve in Pyt
 2. duel
 3. bus
 4. robin-hood
-5. temperatures
-6. rock–paper–scissors
+5. mission-impossible
+6. temperatures
+7. rock–paper–scissors
 
 ## Tips
 
