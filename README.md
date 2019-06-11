@@ -10,7 +10,9 @@ Within this project there are several folders that have coding problems to solve
 4. robin-hood
 5. mission-impossible
 6. temperatures
-7. rock–paper–scissors
+7. lyrics
+8. rock–paper–scissors
+
 
 ## Tips
 
